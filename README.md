@@ -1,4 +1,4 @@
-# Tensorflow_Tutorial
+# Tensorflow Tutorial
 This repository contains code & files as I learn Tensorflow via the following resources:
 
 1. **Daniel Bourke's *Deep Learning Tutorial with TensorFlow***
